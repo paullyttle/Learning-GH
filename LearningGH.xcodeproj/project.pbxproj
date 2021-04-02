@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DA2B388D261719C300CA6049 /* MyModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA2B388C261719C300CA6049 /* MyModel.swift */; };
 		DAF1521926161758001902CC /* LearningGHApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAF1521826161758001902CC /* LearningGHApp.swift */; };
 		DAF1521B26161758001902CC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAF1521A26161758001902CC /* ContentView.swift */; };
 		DAF1521D2616175B001902CC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DAF1521C2616175B001902CC /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DA2B388C261719C300CA6049 /* MyModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyModel.swift; sourceTree = "<group>"; };
 		DAF1521526161758001902CC /* LearningGH.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearningGH.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DAF1521826161758001902CC /* LearningGHApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearningGHApp.swift; sourceTree = "<group>"; };
 		DAF1521A26161758001902CC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				DAF1521C2616175B001902CC /* Assets.xcassets */,
 				DAF152212616175B001902CC /* Info.plist */,
 				DAF1521E2616175B001902CC /* Preview Content */,
+				DA2B388C261719C300CA6049 /* MyModel.swift */,
 			);
 			path = LearningGH;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DAF1521B26161758001902CC /* ContentView.swift in Sources */,
+				DA2B388D261719C300CA6049 /* MyModel.swift in Sources */,
 				DAF1521926161758001902CC /* LearningGHApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
